@@ -17,7 +17,7 @@
 |25.11|Лекция 9. [Морфология. Обзор](https://github.com/sjut/DPO_Materials/blob/master/Lectures/CL1_DO_9L_Morpho.pptx) + [FST](https://www.cs.vassar.edu/~cs395/docs/3.pdf)|
 |25.11|Лекция 10. [FST-FSA]()|Для желающих: упр. на построение конечного автомата|
 |29.11|Практическое занятие 11. [Краткое резюме про морфологический анализ](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/morphology.pdf) (полезно посмотреть)<br>[Лемматизация. PyMorphy и MyStem](https://github.com/sjut/DPO_Materials/commit/087b343951f40352b92ca3d1d355498761fea09c) Ведут Настя и Лоренцо||
-|30.11|Практическое занятие 12. [Лемматизация. PyMorphy и Mystem](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/morphology.ipynb) Ведут Настя и Лоренцо||
+|30.11|Практическое занятие 12. [Лемматизация. PyMorphy и Mystem](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/morphology.ipynb) Ведут Настя и Лоренцо. Текст для тестирования морфологических тагеров дома [вот этот](https://github.com/sjut/DPO_Materials/blob/master/HomeTasks/test.txt) ||
 |01.11|Лекция 13. [Языковые модели. Снятие морфологической омонимии]()|
 |01.11|Семинар 14. [Вероятности. Снятие морфологческой омонимии]()|
 |03.11|Семинар 15. [Обсуждение проектов]()|
