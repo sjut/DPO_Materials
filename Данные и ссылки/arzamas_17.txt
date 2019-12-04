@@ -1,0 +1,566 @@
+# text = # newpar
+# sent_id = 1892
+# text = "Фольклор коми заключает массу рассказов, где герои оперируют теми или другими частями человеческого трупа.
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Фольклор	Фольклор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	коми	коми	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
+4	заключает	заключать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	массу	масса	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	рассказов	рассказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	где	где	ADV	_	Degree=Pos	10	advmod	_	_
+9	герои	герой	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+10	оперируют	оперировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+11	теми	тот	DET	_	Case=Ins|Number=Plur	14	amod	_	_
+12	или	или	CCONJ	_	_	13	cc	_	_
+13	другими	другой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	conj	_	_
+14	частями	частя	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	obl	_	_
+15	человеческого	человеческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	трупа	труп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 1893
+# text = При этом, обладая этими частями, они являются невидимыми и могут безнаказанно воровать и т. п. Соответственно с этим мне приходилось слышать объяснение строгого дежурства около скоропостижно умерших людей: это будто бы делается исключительно из-за того, что злоумышленники могут украсть или изувечить труп для колдовства.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	обладая	обладать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	advcl	_	_
+5	этими	этот	DET	_	Case=Ins|Number=Plur	6	amod	_	_
+6	частями	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	9	nsubj	_	_
+9	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	невидимыми	невидимый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	obl	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+13	безнаказанно	безнаказанно	ADV	_	Degree=Pos	14	advmod	_	_
+14	воровать	воровать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+15	и	и	CCONJ	_	_	22	cc	_	_
+16	т.	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	22	obl	_	_
+17	п.	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	acl	_	_
+18	Соответственно	Соответственне	ADV	_	Degree=Pos	22	advmod	_	_
+19	с	с	ADP	_	_	20	case	_	_
+20	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	nmod	_	_
+21	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	22	obl	_	_
+22	приходилось	приходиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	_
+23	слышать	слышать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	nsubj	_	_
+24	объяснение	объяснение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
+25	строгого	строгий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	дежурства	дежурство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+27	около	около	ADP	_	_	30	case	_	_
+28	скоропостижно	скоропостижно	ADV	_	Degree=Pos	30	advmod	_	_
+29	умерших	умерший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	0	nmod	_	SpaceAfter=No
+31	:	:	PUNCT	_	_	30	punct	_	_
+32	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	_
+33	будто	будто	PART	_	_	35	advmod	_	_
+34	бы	бы	PART	_	_	33	fixed	_	_
+35	делается	делаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	parataxis	_	_
+36	исключительно	исключительно	ADV	_	Degree=Pos	35	advmod	_	_
+37	из-за	из-за	ADP	_	_	38	case	_	_
+38	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	obl	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	38	punct	_	_
+40	что	что	SCONJ	_	_	38	mark	_	_
+41	злоумышленники	злоумышленник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	42	nsubj	_	_
+42	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	advcl	_	_
+43	украсть	красть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	42	xcomp	_	_
+44	или	или	CCONJ	_	_	45	cc	_	_
+45	изувечить	изувечивать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	43	conj	_	_
+46	труп	труп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	45	obl	_	_
+47	для	для	ADP	_	_	46	case	_	_
+48	колдовства	колдовство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	46	nmod	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	48	punct	_	_
+
+# newpar
+# sent_id = 1894
+# text = Чтобы судить о достоверности калечения трупов, я приведу случай в более подробном описании.
+1	Чтобы	чтобы	SCONJ	_	Mood=Cnd	9	mark	_	_
+2	судить	судить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	advcl	_	_
+3	о	о	ADP	_	_	4	case	_	_
+4	достоверности	достоверность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
+5	калечения	калечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	трупов	труп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	9	nsubj	_	_
+9	приведу	приводить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+10	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+11	в	в	ADP	_	_	14	case	_	_
+12	более	более	ADV	_	Degree=Cmp	13	advmod	_	_
+13	подробном	подробный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	описании	описание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 1895
+# text = Летом 1924 года мне встретился случай, подтверждающий практику калечения трупа с колдовской целью и в настоящее время.
+1	Летом	лет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+2	1924	1924	NUM	_	_	3	nummod	_	_
+3	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	5	obl	_	_
+5	встретился	встречаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	случай	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	подтверждающий	подтверждать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
+9	практику	практика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+10	калечения	калечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	трупа	труп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	с	с	ADP	_	_	14	case	_	_
+13	колдовской	колдовский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	в	в	ADP	_	_	5	conj	_	_
+17	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	fixed	_	_
+18	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	fixed	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 1896
+# text = Дело произошло при следующих обстоятельствах: прожив 4 дня в д.
+1	Дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	произошло	происходить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	при	при	ADP	_	_	5	case	_	_
+4	следующих	следующий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	5	amod	_	_
+5	обстоятельствах	обстоятельство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	2	obl	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	5	punct	_	_
+7	прожив	проживать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	2	advcl	_	_
+8	4	4	NUM	_	_	9	nummod	_	_
+9	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	д	д	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 1897
+# text = Каринской во время своей Печорской краеведческой поездки, я поселился со своим товарищем у одного очень положительного и серьезного крестьянина Л.
+1	Каринской	Каринский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+2	во	во	ADP	_	_	7	case	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	fixed	_	_
+4	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing	7	amod	_	_
+5	Печорской	Печорский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	краеведческой	краеведческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	поездки	поездка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	10	nsubj	_	_
+10	поселился	поселяться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	со	с	ADP	_	_	13	case	_	_
+12	своим	свой	DET	_	Case=Ins|Gender=Masc|Number=Sing	13	amod	_	_
+13	товарищем	товарищ	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	10	obl	_	_
+14	у	у	ADP	_	_	15	case	_	_
+15	одного	один	NUM	_	Case=Gen|Gender=Masc	20	nummod	_	_
+16	очень	очень	ADV	_	Degree=Pos	17	advmod	_	_
+17	положительного	положительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	серьезного	серьезной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	conj	_	_
+20	крестьянина	крестьянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	_
+21	Л.	л.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	0	nmod	_	_
+
+# sent_id = 1898
+# text = Б. Он относился сначала к нам осторожно и отвечал на наши вопросы сдержанно.
+1	Б.	б.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+2	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+3	относился	относиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	сначала	сначала	ADV	_	Degree=Pos	3	advmod	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	3	obl	_	_
+7	осторожно	осторожно	ADV	_	Degree=Pos	3	advmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	отвечал	отвечать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+10	на	на	ADP	_	_	12	case	_	_
+11	наши	наш	DET	_	Case=Acc|Number=Plur	12	amod	_	_
+12	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obl	_	_
+13	сдержанно	сдержанно	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 1899
+# text = Но потом, через несколько дней, он вполне освоился с нами и в отношении своих рассказов стал более откровенным.
+1	Но	но	CCONJ	_	_	10	cc	_	_
+2	потом	потом	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	через	через	ADP	_	_	6	case	_	_
+5	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	6	nummod:gov	_	_
+6	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+9	вполне	вполне	ADV	_	Degree=Pos	10	advmod	_	_
+10	освоился	осваиваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	10	obl	_	_
+13	и	и	CCONJ	_	_	18	cc	_	_
+14	в	в	ADP	_	_	17	case	_	_
+15	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	fixed	_	_
+16	своих	свой	DET	_	Case=Gen|Number=Plur	17	amod	_	_
+17	рассказов	рассказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	obl	_	_
+18	стал	становиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	_
+19	более	более	ADV	_	Degree=Cmp	20	advmod	_	_
+20	откровенным	откровенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 1900
+# text = Однажды он спрашивает нас: "Как вы думаете, бывают случаи, что труп тайно поднимают из могилы и для чего-то отрезают у него палец" Мы определенного сказать ничего не смогли.
+1	Однажды	однажды	ADV	_	Degree=Pos	3	advmod	_	_
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+3	спрашивает	спрашивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+4	нас:	нас:	PUNCT	_	_	3	punct	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Как	как	ADV	_	Degree=Pos	8	advmod	_	_
+7	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	8	nsubj	_	_
+8	думаете	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	бывают	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	случаи	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	что	что	SCONJ	_	_	11	mark	_	_
+14	труп	труп	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+15	тайно	тайно	ADV	_	Degree=Pos	16	advmod	_	_
+16	поднимают	поднимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+17	из	из	ADP	_	_	18	case	_	_
+18	могилы	могила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	obl	_	_
+19	и	и	CCONJ	_	_	22	cc	_	_
+20	для	для	ADP	_	_	21	case	_	_
+21	чего-то	что-то	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	obl	_	_
+22	отрезают	отрезать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	conj	_	_
+23	у	у	ADP	_	_	24	case	_	_
+24	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	22	obl	_	_
+25	палец	палец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	SpaceAfter=No
+26	"	"	PUNCT	_	_	27	punct	_	_
+27	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	32	nsubj	_	_
+28	определенного	определять	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	32	xcomp	_	_
+29	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	xcomp	_	_
+30	ничего	ничто	PRON	_	Case=Gen	29	obl	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	32	punct	_	_
+
+# sent_id = 1901
+# text = Тогда он рассказал следующее: "Это было 8 годов тому назад.
+1	Тогда	тогда	ADV	_	Degree=Pos	3	advmod	_	_
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+3	рассказал	рассказывать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	следующее	следующий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	_	_
+6	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+9	8	8	NUM	_	_	10	nummod	_	_
+10	годов	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	parataxis	_	_
+11	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	nmod	_	_
+12	назад	назад	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 1902
+# text = Однажды заходит ко мне моя двоюродная замужняя сестра и говорит: "Братец!
+1	Однажды	однажды	ADV	_	Degree=Pos	2	advmod	_	_
+2	заходит	заходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ко	к	ADP	_	_	4	case	_	_
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	2	obl	_	_
+5	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	_
+6	двоюродная	двоюродной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+7	замужняя	замужний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	сестра	сестра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	Братец	Братец	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+14	!	!	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 1903
+# text = Ребенка, которого я похоронила, кто-то поднимал из могилы: на могиле были приметные куски земли, которых теперь нигде нет.
+1	Ребенка	ребенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	которого	который	PRON	_	Case=Acc	5	obj	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+5	похоронила	хоронить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	кто-то	кто-то	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	поднимал	поднимать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	из	из	ADP	_	_	10	case	_	_
+10	могилы	могила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	могиле	могило	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	parataxis	_	_
+14	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+15	приметные	приметный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	куски	куска	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	_
+17	земли	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	которых	который	PRON	_	Case=Acc	22	obj	_	_
+20	теперь	теперь	ADV	_	Degree=Pos	22	advmod	_	_
+21	нигде	нигде	ADV	_	Degree=Pos	22	advmod	_	_
+22	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 1904
+# text = Вся земля на могиле разворочена, и по первому выпавшему снегу видны чужие следы".
+1	Вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	земля	земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	могиле	могиль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+5	разворочена	разворочать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	и	и	CCONJ	_	_	12	cc	_	_
+8	по	по	ADP	_	_	11	case	_	_
+9	первому	первый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	выпавшему	выпавший	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	снегу	снег	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	12	nmod	_	_
+12	видны	видный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	5	conj	_	_
+13	чужие	чужой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	amod	_	_
+14	следы	след	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 1905
+# text = -- "Молчи, -- говорю, -- если без меня поднимешь ребенка, как следует проберу".
+1	--	--	PUNCT	_	_	3	punct	_	_
+2	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	Молчи	Молчи	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	--	--	PUNCT	_	_	3	punct	_	_
+6	говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	--	--	PUNCT	_	_	6	punct	_	_
+9	если	если	SCONJ	_	_	6	mark	_	_
+10	без	без	ADP	_	_	11	case	_	_
+11	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	12	obl	_	_
+12	поднимешь	поднимть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	advcl	_	_
+13	ребенка	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	как	как	SCONJ	_	_	12	mark	_	_
+16	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+17	проберу	пробер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 1906
+# text = Затем пришли и выкопали могилу (взяли одного местного парня в помощь для работы).
+1	Затем	затем	ADV	_	Degree=Pos	2	advmod	_	_
+2	пришли	приходить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	выкопали	выкапывать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+5	могилу	могила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	взяли	брать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	одного	одный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+9	местного	местный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	парня	парень	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+11	в	в	ADP	_	_	10	case	_	_
+12	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+13	для	для	ADP	_	_	12	case	_	_
+14	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 1907
+# text = И что же оказалось Установили, что приметных кусков земли действительно нигде не было, угля из кадильницы, бывшего наверху могилы, тоже не оказалось; береста, которая была на гробике, оказалась перевернутой на другую сторону; веревочная перевязка гробика -- разрезана; холст, которым был прикрыт труп, высовывался из гробика нapyжy.
+1	И	и	CCONJ	_	_	4	cc	_	_
+2	что	что	PRON	_	Case=Nom	4	nsubj	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	оказалось	оказываться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	Установили	установили	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	что	что	SCONJ	_	_	4	mark	_	_
+8	приметных	приметный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	кусков	кусок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	nsubj	_	_
+10	земли	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	действительно	действительно	ADV	_	Degree=Pos	12	advmod	_	_
+12	нигде	нигде	ADV	_	Degree=Pos	9	advmod	_	_
+13	не	не	PART	_	_	12	advmod	_	_
+14	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	угля	уголь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nsubj	_	_
+17	из	из	ADP	_	_	18	case	_	_
+18	кадильницы	кадильница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	бывшего	быть	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	16	amod	_	_
+21	наверху	наверху	ADV	_	Degree=Pos	20	advmod	_	_
+22	могилы	могилы	ADV	_	Degree=Pos	20	advmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	тоже	тоже	PART	_	_	26	advmod	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	оказалось	оказываться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	advcl	_	SpaceAfter=No
+27	;	;	PUNCT	_	_	26	punct	_	_
+28	береста	береста	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	35	nsubj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	которая	который	PRON	_	Case=Nom	33	nsubj	_	_
+31	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	cop	_	_
+32	на	на	ADP	_	_	33	case	_	_
+33	гробике	гробик	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	28	acl:relcl	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	33	punct	_	_
+35	оказалась	оказываться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	conj	_	_
+36	перевернутой	перевергивать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	35	amod	_	_
+37	на	на	ADP	_	_	39	case	_	_
+38	другую	другой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	36	obl	_	SpaceAfter=No
+40	;	;	PUNCT	_	_	39	punct	_	_
+41	веревочная	веревочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	_
+42	перевязка	перевязка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	45	nsubj:pass	_	_
+43	гробика	гробик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	42	nmod	_	_
+44	--	--	PUNCT	_	_	43	punct	_	_
+45	разрезана	разрезать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	conj	_	SpaceAfter=No
+46	;	;	PUNCT	_	_	45	punct	_	_
+47	холст	холст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	conj	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	47	punct	_	_
+49	которым	который	PRON	_	Case=Ins	51	obl	_	_
+50	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	51	aux:pass	_	_
+51	прикрыт	прикрывать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	47	acl:relcl	_	_
+52	труп	труп	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	51	nsubj	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	52	punct	_	_
+54	высовывался	высовываться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	conj	_	_
+55	из	из	ADP	_	_	56	case	_	_
+56	гробика	гробик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	54	obl	_	_
+57	нapyжy	нapyжy	X	_	Foreign=Yes	56	flat:foreign	_	SpaceAfter=No
+58	.	.	PUNCT	_	_	57	punct	_	_
+
+# sent_id = 1908
+# text = Как открыли крышку, то увидели: безымянный палец левой руки трупа был отрезан по первому суставу.
+1	Как	как	ADV	_	Degree=Pos	6	mark	_	_
+2	открыли	открывать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+3	крышку	крышка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	то	то	SCONJ	_	_	2	cc	_	_
+6	увидели	видеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	6	punct	_	_
+8	безымянный	безымянный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	палец	палец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+10	левой	левый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	руки	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+12	трупа	труп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	aux:pass	_	_
+14	отрезан	отрезать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	parataxis	_	_
+15	по	по	ADP	_	_	17	case	_	_
+16	первому	первый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	суставу	сустав	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 1909
+# text = Поверхность земли немного кругом могилы попорошило снежком, и на ней были заметны отпечатки следов больших человеческих ног в валенках".
+1	Поверхность	поверхность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+2	земли	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	немного	немного	ADV	_	Degree=Pos	6	advmod	_	_
+4	кругом	кругом	ADV	_	Degree=Pos	6	advmod	_	_
+5	могилы	могила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	попорошило	попорошить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	снежком	снежок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	и	и	CCONJ	_	_	13	cc	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3	13	nmod	_	_
+12	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+13	заметны	заметный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	6	conj	_	_
+14	отпечатки	отпечаток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+15	следов	след	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+16	больших	больший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+17	человеческих	человеческий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	ног	нога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	валенках	валенок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	0	nmod	_	SpaceAfter=No
+21	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	20	punct	_	_
+
+# newpar
+# sent_id = 1910
+# text = Парень, по npoсьбe участвовавший в раскрывании могилы для исследования и приходивший к нам, вполне подтвердил сообщенное Л. Б., прибавив, что ранее совсем не боялся умерших, а теперь их очень боится.
+1	Парень	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	npoсьбe	npoсьбe	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	участвовавший	участвовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	раскрывании	раскрывание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+8	могилы	могила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	для	для	ADP	_	_	10	case	_	_
+10	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	приходивший	приходить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	conj	_	_
+13	к	к	ADP	_	_	14	case	_	_
+14	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	12	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	вполне	вполне	ADV	_	Degree=Pos	17	advmod	_	_
+17	подтвердил	подтверждать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+18	сообщенное	сообщенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	Л.	л.	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+20	Б.	б.	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	прибавив	прибавлять	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	17	advcl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	что	что	SCONJ	_	_	22	mark	_	_
+25	ранее	ранее	ADV	_	Degree=Pos	28	advmod	_	_
+26	совсем	совсем	ADV	_	Degree=Pos	27	advmod	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	боялся	бояться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	22	advcl	_	_
+29	умерших	умерший	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	28	obj	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	29	punct	_	_
+31	а	а	CCONJ	_	_	35	cc	_	_
+32	теперь	теперь	ADV	_	Degree=Pos	35	advmod	_	_
+33	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	35	nsubj	_	_
+34	очень	очень	ADV	_	Degree=Pos	35	advmod	_	_
+35	боится	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	28	conj	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	35	punct	_	_
+
+# sent_id = 1911
+# text = Существует в этой местности поверье, что обладание пальцем умершего способствует богатому промыслу на охоте.
+1	Существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	4	amod	_	_
+4	местности	местность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	_
+5	поверье	поверье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	что	что	SCONJ	_	_	5	mark	_	_
+8	обладание	обладание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+9	пальцем	палец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	nmod	_	_
+10	умершего	умерший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	способствует	способствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
+12	богатому	богатый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	промыслу	промысл	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	obl	_	_
+14	на	на	ADP	_	_	15	case	_	_
+15	охоте	охот	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# newpar
+# sent_id = 1912
+# text = Кроме того, существует поверье, как указано выше, на Печоре и по Вычегде, что владение какой-нибудь частью покойника делает человека невидимым.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	поверье	поверье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj:pass	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	как	как	SCONJ	_	_	8	mark	_	_
+8	указано	указывать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	advcl	_	_
+9	выше	выше	ADV	_	Degree=Pos	8	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	Печоре	Печора	PROPN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	по	по	ADP	_	_	15	case	_	_
+15	Вычегде	Вычегда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	что	что	SCONJ	_	_	8	mark	_	_
+18	владение	владение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+19	какой-нибудь	какой-нибудь	DET	_	Case=Ins|Gender=Fem|Number=Sing	20	amod	_	_
+20	частью	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	nmod	_	_
+21	покойника	покойник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	18	nmod	_	_
+22	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+23	человека	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+24	невидимым	невидимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 1913
+# text = С этой с целью, как сообщает Янович, пермяки хранят свой случайно отрубленный палец".
+1	С	с	ADP	_	_	4	case	_	_
+2	этой	этот	DET	_	Case=Ins|Gender=Fem|Number=Sing	4	amod	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	как	как	SCONJ	_	_	11	mark	_	_
+7	сообщает	сообщать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	_
+8	Янович	Янович	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	пермяки	пермяк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+11	хранят	хранеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	15	amod	_	_
+13	случайно	случайно	ADV	_	Degree=Pos	14	advmod	_	_
+14	отрубленный	отрублать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	amod	_	_
+15	палец	палец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	15	punct	_	_
+
+# newpar
+# sent_id = 1914

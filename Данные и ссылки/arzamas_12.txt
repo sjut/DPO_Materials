@@ -1,0 +1,261 @@
+# text = # newpar
+# sent_id = 374
+# text = "[Меня попросили рассказать] о том времени, которое знаю сейчас, наверное, только я, -- об Ольгином детстве.
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	[	[	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	Меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	4	obj	_	_
+4	попросили	просить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	рассказать	рассказывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	SpaceAfter=No
+6	]	]	PUNCT	_	_	5	punct	_	_
+7	о	о	ADP	_	_	9	case	_	_
+8	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	9	amod	_	_
+9	времени	время	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	которое	который	PRON	_	Case=Nom	12	nsubj	_	_
+12	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	parataxis	_	_
+13	сейчас	сейчас	ADV	_	Degree=Pos	12	advmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	наверное	наверное	ADV	_	Degree=Pos	12	parataxis	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	только	только	PART	_	_	18	advmod	_	_
+18	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	12	nsubj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	--	--	PUNCT	_	_	18	punct	_	_
+21	об	о	ADP	_	_	23	case	_	_
+22	Ольгином	Ольгиной	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	детстве	детство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = 375
+# text = Я обещала одному журналу [об этом] написать, а когда принялась...
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	обещала	обещать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	одному	один	NUM	_	Case=Dat|Gender=Masc	4	nummod	_	_
+4	журналу	журнал	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
+5	[об	[о	ADP	_	_	6	case	_	_
+6	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+7	]	]	PUNCT	_	_	6	punct	_	_
+8	написать	писать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	а	а	CCONJ	_	_	12	cc	_	_
+11	когда	когда	SCONJ	_	_	12	cc	_	_
+12	принялась.	принялась.	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 376
+# text = перечитывать [Ольгины] письма, которых много...
+1	перечитывать	перечитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+2	[	[	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	Ольгины	Ольгина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+4	]	]	PUNCT	_	_	3	punct	_	_
+5	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	которых	который	PRON	_	Case=Gen	8	nmod	_	_
+8	много.	много	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 377
+# text = то я поняла, что писать о том, что больше всего знаешь, всего трудней.
+1	то	то	SCONJ	_	_	2	cc	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+3	поняла	понимать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	что	что	SCONJ	_	_	3	mark	_	_
+6	писать	писать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	advcl	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	что	что	SCONJ	_	_	8	mark	_	_
+11	больше	много	NUM	_	_	12	nummod:gov	_	_
+12	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+13	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	parataxis	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	всего	всего	ADV	_	Degree=Pos	16	advmod	_	_
+16	трудней	трудный	ADJ	_	Degree=Cmp	8	advcl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 378
+# text = И... говорить тоже трудно.
+1	И..	И..	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	nsubj	_	_
+4	тоже	тоже	PART	_	_	5	advmod	_	_
+5	трудно	трудный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 379
+# text = ... ...Для того чтобы cловами выразить то, что знаешь -- как она смотрела, как она смеялась...
+1	..	..	PUNCT	_	_	5	punct	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+5	.Для	.для	ADP	_	_	6	case	_	_
+6	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+7	чтобы	чтобы	SCONJ	_	Mood=Cnd	6	mark	_	_
+8	cловами	cловы	PRON	_	Case=Ins|Number=Plur|Person=2	9	obl	_	_
+9	выразить	выражать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	advcl	_	_
+10	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	что	что	PRON	_	Case=Acc	10	mark	_	_
+13	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	_	_
+14	--	--	PUNCT	_	_	13	punct	_	_
+15	как	как	SCONJ	_	_	13	mark	_	_
+16	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	nsubj	_	_
+17	смотрела	смотреть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	как	как	SCONJ	_	_	17	mark	_	_
+20	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	nsubj	_	_
+21	смеялась.	смеяласьотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	17	advcl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 380
+# text = это ведь надо очень большую силу [иметь]".
+1	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	ведь	ведь	PART	_	_	3	advmod	_	_
+3	надо	надо	ADV	_	Degree=Pos	0	root	_	_
+4	очень	очень	ADV	_	Degree=Pos	5	advmod	_	_
+5	большую	больший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+7	[иметь	[иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	nsubj	_	SpaceAfter=No
+8	]	]	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 381
+# text = Поразительное 23-минутное выступление Марии Берггольц на вечере в Центральном доме работников искусств, которое -- в 1977 году -- начинается с ее рассказа о том, как муж Марии Федоровны, "он верующий человек", через 40 дней после смерти Ольги Берггольц пошел подать записку за упокой в один из ленинградских храмов и священник рассказал ему, что таковых уже подано более 40 штук.
+1	Поразительное	поразительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	23-минутное	23-минутный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	выступление	выступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	Марии	Мария	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	Берггольц	Берггольц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	вечере	вечер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	Центральном	центральный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
+11	работников	работник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	искусств	искусство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	которое	который	PRON	_	Case=Nom	20	nsubj	_	_
+15	--	--	PUNCT	_	_	14	punct	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	1977	1977	NUM	_	_	18	nummod	_	_
+18	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	_
+19	--	--	PUNCT	_	_	18	punct	_	_
+20	начинается	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	acl:relcl	_	_
+21	с	с	ADP	_	_	23	case	_	_
+22	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	23	nmod	_	_
+23	рассказа	рассказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	obl	_	_
+24	о	о	ADP	_	_	25	case	_	_
+25	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	как	как	ADV	_	Degree=Pos	28	advmod	_	_
+28	муж	муж	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	35	parataxis	_	_
+29	Марии	мария	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	_
+30	Федоровны	федоровна	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	29	flat:name	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	30	punct	_	_
+32	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
+33	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	35	nsubj	_	_
+34	верующий	веровать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	35	amod	_	_
+35	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	conj	_	SpaceAfter=No
+36	"	"	PUNCT	_	_	35	punct	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	35	punct	_	_
+38	через	через	ADP	_	_	40	case	_	_
+39	40	40	NUM	_	_	40	nummod	_	_
+40	дней	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	45	obl	_	_
+41	после	после	ADP	_	_	40	case	_	_
+42	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	_
+43	Ольги	Ольга	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	_
+44	Берггольц	Берггольц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	45	nsubj	_	_
+45	пошел	походить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	35	acl:relcl	_	_
+46	подать	подавать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	45	xcomp	_	_
+47	записку	записка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	46	obj	_	_
+48	за	за	ADP	_	_	49	case	_	_
+49	упокой	упокой	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	46	obl	_	_
+50	в	в	ADP	_	_	51	case	_	_
+51	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	46	nummod:gov	_	_
+52	из	из	ADP	_	_	54	case	_	_
+53	ленинградских	ленинградский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	54	amod	_	_
+54	храмов	храм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	51	nmod	_	_
+55	и	и	CCONJ	_	_	57	cc	_	_
+56	священник	священник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	57	nsubj	_	_
+57	рассказал	рассказывать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	45	conj	_	_
+58	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	57	obl	_	SpaceAfter=No
+59	,	,	PUNCT	_	_	58	punct	_	_
+60	что	что	SCONJ	_	_	57	mark	_	_
+61	таковых	таковой	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	63	nsubj:pass	_	_
+62	уже	уже	ADV	_	Degree=Pos	63	advmod	_	_
+63	подано	подавать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	57	advcl	_	_
+64	более	более	ADV	_	Degree=Cmp	66	nummod:gov	_	_
+65	40	40	NUM	_	_	66	nummod	_	_
+66	штук	штука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	63	obl	_	SpaceAfter=No
+67	.	.	PUNCT	_	_	66	punct	_	_
+
+# sent_id = 382
+# text = После чего Мария Федоровна, элегантно связав веру в коммунизм с христианской верой, переходит к иным, не менее увлекательным материям -- к тому, например, почему Ольга внесла в свою книгу "Великие поэты века" русского землепроходца, который поэтом вовсе не был.
+1	После	после	ADP	_	_	2	case	_	_
+2	чего	что	PRON	_	Case=Gen	15	obl	_	_
+3	Мария	мария	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+4	Федоровна	федоровна	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	элегантно	элегантно	ADV	_	Degree=Pos	7	advmod	_	_
+7	связав	вязать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	15	advcl	_	_
+8	веру	вера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	коммунизм	коммунизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+11	с	с	ADP	_	_	13	case	_	_
+12	христианской	христианский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	верой	вера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	переходит	переходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+16	к	к	ADP	_	_	17	case	_	_
+17	иным	иной	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	менее	менее	ADV	_	Degree=Cmp	21	advmod	_	_
+21	увлекательным	увлекательный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	22	amod	_	_
+22	материям	материя	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	15	conj	_	_
+23	--	--	PUNCT	_	_	22	punct	_	_
+24	к	к	ADP	_	_	25	case	_	_
+25	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	31	obl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	_
+27	например	например	ADV	_	Degree=Pos	31	parataxis	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	27	punct	_	_
+29	почему	почему	ADV	_	Degree=Pos	31	advmod	_	_
+30	Ольга	ольга	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	31	nsubj	_	_
+31	внесла	вносить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	parataxis	_	_
+32	в	в	ADP	_	_	34	case	_	_
+33	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	34	amod	_	_
+34	книгу	книга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	37	obl	_	_
+35	"	"	PUNCT	_	_	36	punct	_	SpaceAfter=No
+36	Великие	великий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	37	amod	_	_
+37	поэты	поэт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	31	obj	_	_
+38	века	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	SpaceAfter=No
+39	"	"	PUNCT	_	_	38	punct	_	_
+40	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
+41	землепроходца	землепроходец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	41	punct	_	_
+43	который	который	PRON	_	Case=Nom	47	nsubj	_	_
+44	поэтом	поэтом	ADV	_	Degree=Pos	47	advmod	_	_
+45	вовсе	вовсе	ADV	_	Degree=Pos	46	advmod	_	_
+46	не	не	PART	_	_	47	advmod	_	_
+47	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	41	acl:relcl	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	47	punct	_	_
+
+# sent_id = 383
+# text = Мария Берггольц вспоминает о сестре Ольге (ЦДРИ)
+1	Мария	Мария	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	Берггольц	Берггольц	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	вспоминает	вспоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	сестре	сестр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+6	Ольге	Ольг	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	ЦДРИ	Цдри	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	8	punct	_	_
+
+# newpar
+# sent_id = 384
