@@ -18,11 +18,12 @@
 |25.11|Лекция 10. [FST-FSA]()|Для желающих: упр. на построение конечного автомата|
 |29.11|Практическое занятие 11. [Краткое резюме про морфологический анализ](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/morphology.pdf) (полезно посмотреть)<br>[Лемматизация. PyMorphy и MyStem](https://github.com/sjut/DPO_Materials/commit/087b343951f40352b92ca3d1d355498761fea09c) Ведут Настя и Лоренцо||
 |30.11|Практическое занятие 12. [Лемматизация. PyMorphy и Mystem](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/morphology.ipynb) Ведут Настя и Лоренцо. <br>Текст для тестирования морфологических тагеров дома [вот этот](https://github.com/sjut/DPO_Materials/blob/master/HomeTasks/test.txt) <br> правильные ответы [вот здесь](https://github.com/sjut/DPO_Materials/blob/master/HomeTasks/GoldStandard.txt), но не в том формате и не с теми тегами, которые выдают программы. Краткое обсуждение будет 01.12||
-|02.11|Лекция 13. [Языковые модели. Снятие морфологической омонимии]()|
-|02.11|Семинар 14. [Вероятности. Снятие морфологческой омонимии]() Датасет для обсуждения морфологии вот здесь  (тот же, что выше)|
-|04.11|Лекция 16. [Синтаксис: контекстно-свободные грамматики. Зависимостный парсинг](https://github.com/sjut/DPO_Materials/blob/master/Lectures/2019_CL1_L_Synt.pptx). <br> Ссылки [UD стандарты](https://universaldependencies.org/)<br> [Стэндфордский синтаксический анализатор](https://corenlp.run/)<br> [Визуализация UD разбора](https://arborator.ilpga.fr/q.cgi)|
-|04.11|Семинар 15. Обсуждение проектов|
-|07.11|[Семинар 17. Синтаксис](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/syntactic_parsers.ipynb) 
+|02.12|Лекция 13. [Языковые модели. Снятие морфологической омонимии]()|
+|02.12|Семинар 14. [Вероятности. Снятие морфологческой омонимии]() Датасет для обсуждения морфологии вот здесь  (тот же, что выше)|
+|04.12|Лекция 16. [Синтаксис: контекстно-свободные грамматики. Зависимостный парсинг](https://github.com/sjut/DPO_Materials/blob/master/Lectures/2019_CL1_L_Synt.pptx). <br> Ссылки [UD стандарты](https://universaldependencies.org/)<br> [Стэндфордский синтаксический анализатор](https://corenlp.run/)<br> [Визуализация UD разбора](https://arborator.ilpga.fr/q.cgi)|
+|04.12|Семинар 15. Обсуждение проектов|
+|07.12|[Семинар 17. Синтаксис](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/syntactic_parsers.ipynb)|
+|11.12|[Семинар 18.Частотный анализ TF-IDF](https://github.com/sjut/DPO_Materials/commit/56a94c41afab2998eb9448c6439ae0a52672c622), старт работы над проектами|
 
 Полезная литература и ссылки  
 
