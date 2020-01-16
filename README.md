@@ -20,10 +20,12 @@
 |30.11|Практическое занятие 12. [Лемматизация. PyMorphy и Mystem](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/morphology.ipynb) Ведут Настя и Лоренцо. <br>Текст для тестирования морфологических тагеров дома [вот этот](https://github.com/sjut/DPO_Materials/blob/master/HomeTasks/test.txt) <br> правильные ответы [вот здесь](https://github.com/sjut/DPO_Materials/blob/master/HomeTasks/GoldStandard.txt), но не в том формате и не с теми тегами, которые выдают программы. Краткое обсуждение будет 01.12||
 |02.12|Лекция 13. [Языковые модели. Снятие морфологической омонимии](Lectures/language_models.pptx)|
 |02.12|Семинар 14. [Вероятности. Снятие морфологческой омонимии](Lectures/CL1_DO_L_disambiguation.pptx) Датасет для обсуждения морфологии вот здесь  (тот же, что выше)|
-|04.12|Лекция 16. [Синтаксис: контекстно-свободные грамматики. Зависимостный парсинг](https://github.com/sjut/DPO_Materials/blob/master/Lectures/2019_CL1_L_Synt.pptx). <br> Ссылки [UD стандарты](https://universaldependencies.org/)<br> [Стэндфордский синтаксический анализатор](https://corenlp.run/)<br> [Визуализация UD разбора](https://arborator.ilpga.fr/q.cgi)|
-|04.12|Семинар 15. Обсуждение проектов|
+|04.12|Лекция 15. [Синтаксис: контекстно-свободные грамматики. Зависимостный парсинг](https://github.com/sjut/DPO_Materials/blob/master/Lectures/2019_CL1_L_Synt.pptx). <br> Ссылки [UD стандарты](https://universaldependencies.org/)<br> [Стэндфордский синтаксический анализатор](https://corenlp.run/)<br> [Визуализация UD разбора](https://arborator.ilpga.fr/q.cgi)|
+|04.12|Семинар 16. Обсуждение проектов|
 |07.12|[Семинар 17. Синтаксис](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/syntactic_parsers.ipynb)|
 |11.12|[Семинар 18.Частотный анализ TF-IDF](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/freq_analysis_tf_idf.ipynb), старт работы над проектами|
+|16.12|[Лекция 19. Коллокации](Lectures/CL2_L_Collocations.pptx)||
+|23.12|[Лекция 20. Коллокации. Продолжение](Lectures/CL2_L_Collocations.pptx)||
 
 Полезная литература и ссылки  
 
