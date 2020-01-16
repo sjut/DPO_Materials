@@ -25,7 +25,11 @@
 |07.12|[Семинар 17. Синтаксис](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/syntactic_parsers.ipynb)|
 |11.12|[Семинар 18.Частотный анализ TF-IDF](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/freq_analysis_tf_idf.ipynb), старт работы над проектами|
 |16.12|[Лекция 19. Коллокации](Lectures/CL2_L_Collocations.pptx)||
-|23.12|[Лекция 20. Коллокации. Продолжение](Lectures/CL2_L_Collocations.pptx)||
+|23.12|[Лекция 20. Коллокации. Продолжение](Lectures/CL2_L_Collocations.pptx)|[Практикум](Практические занятия/Collocations.ipynb)|
+
+**Часть 2. Ресурсы и инструменты <br>
+|13.01| [Лекция 1. Введение в корпусную лингвистику]()||
+|20.01| [Лекция 2. Метаразметка. Основные копруса]()|Особенности работы с НКРЯ|
 
 Полезная литература и ссылки  
 
