@@ -34,7 +34,7 @@
 |13.01| [Лекция 1. Введение в корпусную лингвистику](Lectures/Corp_L1_basics.pptx)||
 |20.01| [Лекция 2. Метаразметка. Основные копруса](https://github.com/sjut/DPO_Materials/blob/master/Lectures/Corp_L2_meta.ppt)|Особенности работы с НКРЯ|
 |20.01| [Лекция 2. Метаразметка. Основные копруса](https://github.com/sjut/DPO_Materials/blob/master/Lectures/Corp_L2_meta.ppt)|Особенности работы с НКРЯ|
-|20.01| [Лекция 3. Частотные словари](Lectures/Corp_L3_Частотные словари.pptx)|Особенности работы с НКРЯ|
+|20.01| [Лекция 3. Частотные словари](https://github.com/sjut/DPO_Materials/blob/master/Lectures/Corp_L3_%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8.pptx)|Особенности работы с НКРЯ|
 |01.02|[Практикум. Поиск в корпусах с использованием CQL](https://github.com/sjut/DPO_Materials/blob/master/Lectures/CL2_S_Leeds.pptx)||
 |08.02|Практикум. Текстовая аналитика с использованием Excel||
 |15.02|[Лекция. Извлечение именованных сущностей](Lectures/IE_NER_1.pptx)
