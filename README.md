@@ -39,8 +39,8 @@
 |08.02|Практикум. Текстовая аналитика с использованием Excel||
 |15.02|[Лекция. Извлечение именованных сущностей](Lectures/IE_NER_1.pptx)
 |15.02|[Практикум. Natasha](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/NER/DPO_NLP_6___NER1.ipynb)
-|29.02|[Практикум. Yargy. Food](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/NER/DPO_NLP_6___NER1.ipynb)
-|21.03|[Практикум. Yargy. Food](Практические занятия/NER/food_new.ipynb)
+|29.02|[Практикум. Yargy. Food](https://github.com/sjut/DPO_Materials/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F/NER/DPO_NLP_6___NER1.ipynb)||
+|21.03|[Практикум. Yargy. Food](Практические занятия/NER/food_new.ipynb)||
 
 Полезная литература и ссылки  
 
